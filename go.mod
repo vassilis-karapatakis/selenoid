@@ -7,7 +7,7 @@ require (
 	github.com/aerokube/ggr v0.0.0-20220530075522-e83d8e58ba43
 	github.com/aerokube/util v0.0.0-20200816065139-4ca0222e7686
 	github.com/aws/aws-sdk-go v1.44.137
-	github.com/docker/docker v20.10.17+incompatible
+	github.com/docker/docker v20.10.24+incompatible
 	github.com/docker/go-connections v0.4.0
 	github.com/docker/go-units v0.4.0
 	github.com/gorilla/websocket v1.5.0
